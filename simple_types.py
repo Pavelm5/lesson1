@@ -1,0 +1,1 @@
+print(float('1'),'\n', int(float('2.5')),'\n', bool(1),'\n', bool(0))
